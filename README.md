@@ -15,4 +15,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karim-308&show_icons=true&locale=en&layout=compact" alt="karim-308" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karim-308&" alt="karim-308" /></p>
